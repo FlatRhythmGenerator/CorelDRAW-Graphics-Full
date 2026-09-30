@@ -1,0 +1,26 @@
+{
+  "repo": "coreldraw-graphics-full",
+  "product": "CorelDRAW Graphics Full",
+  "kind": "creative",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "photo-editing",
+  "topics": [
+    "coreldraw-graphics-full",
+    "coreldraw-desktop",
+    "coreldraw-windows",
+    "photo-editing",
+    "raw-processing",
+    "retouching-tools",
+    "color-correction",
+    "image-export",
+    "desktop-photo",
+    "windows-photo-editor",
+    "layer-editing",
+    "catalog-workflow",
+    "print-profiles"
+  ],
+  "site": "zentool.art"
+}
